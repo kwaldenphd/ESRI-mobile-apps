@@ -1,4 +1,4 @@
-# ESRI Mobile Apps: Resources for getting started with ESRI Quick Capture, Collector, and Explorer apps
+# ArcGIS Mobile Apps: Resources for getting started with ESRI Quick Capture, Collector, and Explorer apps
 
 For any of these apps, you will sign in using the Grinnell enterprise login you used to log in to ArcGIS Online.
 
